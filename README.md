@@ -7,7 +7,7 @@ Then it zips them up so you can download the dataset or transfers it to google d
 
 TODO:
 - add: option to create a csv file of labels & filenames (also allowing for multi-label searches)
-- add; option to create a csv file of labels & URLS (allows much smaller datasets)
+- add: option to create a csv file of labels & URLS (allows much smaller datasets)
 - add: DDG options to constrain searches by layout/type/colour etc, if I can ever find what the allowed params to i.js are...  
 
 Credits: \
