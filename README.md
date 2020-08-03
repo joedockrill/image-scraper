@@ -5,10 +5,5 @@ This allows you to run a bunch of searches and download images into folders base
 You can then run a very simple image cleaner in the notebook to delete anything which doesn't belong. \
 Then it zips them up so you can download the dataset or transfers it to google drive.
 
-TODO:
-- add: option to create a csv file of labels & filenames (also allowing for multi-label searches)
-- add: option to create a csv file of labels & URLS (allows much smaller datasets)
-- add: DDG options to constrain searches by layout/type/colour etc, if I can ever find what the allowed params to i.js are...  
-
-Credits: \
-DDG code from https://github.com/deepanprabhu/duckduckgo-images-api  
+Version 2:
+DuckDuckGo searches can now have params for image size, image type, image layout and image color. 
