@@ -1,12 +1,12 @@
 # image-scraper
 Image scraper for DuckDuckGo and Google for creating deep learning datasets
 
-This allows you to run a bunch of searches and download images into folders based on label name. \
-You can then run a simple image cleaner within the notebook to delete anything which doesn't belong. \
+This allows you to run a bunch of searches and download images into folders based on label name.
+You can then run a simple image cleaner within the notebook to delete anything which doesn't belong.
 Then it zips them up so you can download the dataset or transfers it to google drive.
 
-You can also use it to create URL/label CSV files which is useful if you want to have a massive \
-dataset with many thousands of files but don't want to host it or send it around yourself. \
+You can also use it to create URL/label CSV files which is useful if you want to have a massive
+dataset with many thousands of files but don't want to host it or send it around yourself.
 It would then be up to your users to download the files themselves.
 
 Credits:
