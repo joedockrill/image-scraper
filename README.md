@@ -16,7 +16,7 @@ It would then be up to your users to download the files themselves.
 # History
 ```
 11/08/20  chg: rewrite of image cleaner. includes pagination and is 10x faster than before.
-03/08/20  fix: exception handling for failed downloads (403, 404 etc)
+06/08/20  fix: exception handling for failed downloads (403, 404 etc)
 03/08/20  add: DDG search params for image size, image type, image layout and image color.
 14/07/20  rel: version 1
 ```
