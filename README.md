@@ -10,13 +10,11 @@ dataset with many thousands of files but don't want to host it or send it around
 It would then be up to your users to download the files themselves.
 
 # Credits:
-------------------------------------------------------------------------------------------
 - [Deepan Prabhu Babu](https://github.com/deepanprabhu/duckduckgo-images-api) for the base DuckDuckGo code
 - Iegor Timukhin for pointing out that the search constraints param was sitting under my nose the whole time
 
 # History
 ```
-------------------------------------------------------------------------------------------
 11/08/20  chg: rewrite of image cleaner. includes pagination and is 10x faster than before.
 03/08/20  fix: exception handling for failed downloads (403, 404 etc)
 03/08/20  add: DDG search params for image size, image type, image layout and image color.
