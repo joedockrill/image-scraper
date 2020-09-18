@@ -2,7 +2,7 @@
 
 This was originally an image scraper notebook for creating deep learning datasets.
 
-This has since been turned into an installable library and is much easier to use as you can simply drop a few lines of code into your own notebook as you're experimenting. 
+It has since been turned into an installable library and is much easier to use as you can simply drop a few lines of code into your own notebook as you're experimenting. 
 
 This notebook now shows you how to use the library.
 
